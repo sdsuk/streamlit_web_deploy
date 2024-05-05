@@ -31,3 +31,5 @@ chart_data = pd.DataFrame(
 )
 
 cols[2].line_chart(chart_data)
+
+#Generation done
